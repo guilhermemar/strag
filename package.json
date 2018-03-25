@@ -1,6 +1,6 @@
 {
   "name": "strag",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "transform string to a DOMElement",
   "main": "source/index.js",
   "repository": {
