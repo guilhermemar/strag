@@ -1,0 +1,17 @@
+{
+  "name": "strag",
+  "version": "1.0.0",
+  "description": "transform string to a DOMElement",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermemar/strag.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermemar/strag/issues"
+  },
+  "homepage": "https://github.com/guilhermemar/strag#readme"
+}
