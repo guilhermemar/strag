@@ -1,4 +1,4 @@
-nodule.exports.strag = function strag (definition) {
+module.exports = function strag (definition) {
   const container = document.createElement('container');
 
   container.innerHTML = definition;
