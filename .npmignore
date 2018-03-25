@@ -1,3 +1,5 @@
 .editorconfig
 .dockerfile
 .jocker.sh
+.travis.yml
+test

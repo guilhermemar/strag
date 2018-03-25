@@ -1,5 +1,5 @@
 module.exports = function strag (definition) {
-  const container = document.createElement('container');
+  const container = window.document.createElement('container');
 
   container.innerHTML = definition;
 

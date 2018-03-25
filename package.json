@@ -2,7 +2,7 @@
   "name": "strag",
   "version": "1.0.3",
   "description": "transform string to a DOMElement",
-  "main": "index.js",
+  "main": "source/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/guilhermemar/strag.git"
@@ -13,5 +13,13 @@
   "bugs": {
     "url": "https://github.com/guilhermemar/strag/issues"
   },
-  "homepage": "https://github.com/guilhermemar/strag#readme"
+  "homepage": "https://github.com/guilhermemar/strag#readme",
+  "devDependencies": {
+    "jsdom": "^11.6.2",
+    "mocha": "^5.0.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {}
 }
