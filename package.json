@@ -1,14 +1,18 @@
 {
   "name": "strag",
   "version": "1.0.4",
-  "description": "transform string to a DOMElement",
-  "main": "source/index.js",
+  "description": "A helper to create DOMELements more easily",
+  "main": "source/strag.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/guilhermemar/strag.git"
   },
   "keywords": [],
-  "author": "Mar, G",
+  "author": {
+    "name": "Mar, G",
+    "email": "gfmarster@gmail.com",
+    "site": "https://github.com/guilhermemar"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/guilhermemar/strag/issues"
